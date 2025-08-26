@@ -1,4 +1,4 @@
-<img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/XXXXX" />
+<img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/1fe4548b-f3c7-41a4-aa4a-31f2d0ec958a" />
 
 # 🔒 FrenchProtectDLL - Plugin de protection pour développeurs Nova-Life
 
@@ -28,7 +28,6 @@ Il intègre un **système de sécurité complet** basé sur des signatures crypt
 
 ### ⚙️ Intégration simplifiée
 - Installation rapide et **aucune configuration complexe** pour l’acheteur.
-- Fonctionne en arrière-plan, sans gêner l’utilisation du plugin protégé.
 - Léger, optimisé et totalement transparent pour l’utilisateur final.
 
 ---
